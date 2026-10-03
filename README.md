@@ -1,6 +1,6 @@
 <img src="./assets/ame-chan.png" width="30%" align="right" alt="Ame-chan in a cozy creative workspace">
 
-### 👋 Hi, I'm CLOSETTT
+### 👋 Hi, I'm CLOSETTTY
 
 I create websites, tools, and animated characters for interactive workspaces. I care about strong visuals and projects people can run themselves.
 
