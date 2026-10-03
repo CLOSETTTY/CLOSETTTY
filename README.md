@@ -4,9 +4,12 @@
 
 I create websites, tools, and animated characters for interactive workspaces. I care about strong visuals and projects people can run themselves.
 
+**Vibe coding • AI agents • automation • Codex**
+
 <pre>
 🎨 Web design      · interfaces and visual stories
-⚙️ Automation      · practical tools
+🤖 AI agents       · practical automation
+⌨️ Codex           · creative coding workflows
 ✨ AI characters   · animation and CanvasTTY plugins
 </pre>
 
