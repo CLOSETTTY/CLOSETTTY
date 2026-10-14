@@ -20,5 +20,7 @@ I create websites, tools, and animated characters for interactive workspaces. I 
 Website design, animation, useful interfaces, and creative AI tools.
 
 <div align="center">
+  <img src="./assets/ame-chan-bunny.gif" height="180" alt="Ame-chan hugging a bunny in a looping animation">
+  <br>
   <sub>✦ Create. Refine. Ship. ✦</sub>
 </div>
